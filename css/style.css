@@ -1,0 +1,10 @@
+h2.intro {
+  color: blue;
+  font-style: italic;
+  font-weight: bold;
+}
+p.intro {
+  color: red;
+  font-style: oblique;
+  font-weight: bolder;
+}
