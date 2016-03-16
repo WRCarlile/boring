@@ -1,9 +1,9 @@
-h2.intro {
+.intro {
   color: blue;
   font-style: italic;
   font-weight: bold;
 }
-p.intro {
+.notintro {
   color: red;
   font-style: oblique;
   font-weight: bolder;
